@@ -60,9 +60,9 @@ p {
 }
 
 .clearfix {
-  background-image: url("http://www.google.com/imgres?imgurl=http://lesmills.blob.core.windows.net/media/1005/born-to-move-8-12-grid.jpg");
+  background-image: url("http://www.linz09.at/fm/4972/I%20like%20to%20move%20it%20move%20it1_c_Nick%20Mangafas.jpg");
   background-size: cover;
-  height: 800px;
+  height: 500px;
   clear: both;
 }
 
@@ -103,6 +103,7 @@ p {
 /* Footer */
 .footer {
   background-image: url("http://www.moveitmobstyle.com.au/wp-content/uploads/2013/07/MIMS1.jpg");
+  background-size: cover;
   height: 600px;
 }
 
