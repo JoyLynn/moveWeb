@@ -60,6 +60,9 @@ p {
 }
 
 .clearfix {
+  background-image: url("http://www.moveitmobstyle.com.au/wp-content/uploads/2013/07/MIMS1.jpg");
+  background-size: cover;
+  height: 800px;
   clear: both;
 }
 
@@ -82,8 +85,9 @@ p {
 /* Feature */
 .feature {
   background-color: #5a5a5a;
-  height: 300px;
+  height: 350px;
   text-align: center;
+  padding-top: 50px;
 }
 
 .feature h1,
@@ -92,8 +96,7 @@ p {
   color: yellow;
   font-family: 'Raleway', sans-serif;
   font-weight: 400;
-  margin-top: 50;
-  margin-bottom: 40px;
+  margin-top: 30;
   text-transform: uppercase;
 }
 
