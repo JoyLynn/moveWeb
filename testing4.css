@@ -83,17 +83,17 @@ p {
 .feature {
   background-color: #5a5a5a;
   height: 300px;
-  font-family: 'Raleway', sans-serif;
-  font-weight: 400;
   text-align: center;
 }
 
 .feature h1,
 .feature h2 {
-  color: #fff;
-  font-size: 40px;
-  margin: 0;
-  padding:50px 0 0;
+  font-size: 80px;
+  color: yellow;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 600;
+  margin-top: 50;
+  margin-bottom: 40px;
   text-transform: uppercase;
 }
 
