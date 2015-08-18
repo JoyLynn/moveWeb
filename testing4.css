@@ -60,7 +60,7 @@ p {
 }
 
 .clearfix {
-  background-image: url("http://www.moveitmobstyle.com.au/wp-content/uploads/2013/07/MIMS1.jpg");
+  background-image: url("http://www.google.com/imgres?imgurl=http://lesmills.blob.core.windows.net/media/1005/born-to-move-8-12-grid.jpg");
   background-size: cover;
   height: 800px;
   clear: both;
@@ -102,6 +102,7 @@ p {
 
 /* Footer */
 .footer {
+  background-image: url("http://www.moveitmobstyle.com.au/wp-content/uploads/2013/07/MIMS1.jpg");
   height: 600px;
 }
 
