@@ -19,6 +19,7 @@ p {
 .main {
   background-image: url("http://www.hsbc.ca/1/PA_ES_Content_Mgmt/content/canada4/images/personal/new-to-canada/move-money-940x340.jpg");
   height: 600px;
+  background-size: cover;
   text-align: center;
 }
 
