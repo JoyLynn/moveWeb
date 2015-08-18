@@ -48,7 +48,7 @@ p {
   margin-bottom: 10px;
 }
 
-/*/.clearfix {
+.clearfix {
   clear: both;
 }
 
@@ -121,4 +121,4 @@ p {
   .feature h2 {
     font-size: 60px;
   }
-/*}*/
+}
