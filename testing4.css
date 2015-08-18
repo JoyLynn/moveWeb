@@ -108,24 +108,29 @@ p {
   text-transform: uppercase;
 }
 
+.feature p {
+  color: white;
+}
+
 /* Footer */
 .footer {
   background-image: url("http://www.moveitmobstyle.com.au/wp-content/uploads/2013/07/MIMS1.jpg");
   background-size: cover;
+  padding-top: 200px;
   text-align: center;
   height: 600px;
 }
 
 .footer h1,
 .footer h2 {
-  color: #fff;
+  color: yellow;
   font-size: 40px;
   margin: 0 0 20px 0;
   padding:50px 0 0;
 }
 
 .footer p {
-  color: #fff;
+  color: yellow;
   margin: 0 0 20px 0;
   font-size: 18px;
 }
