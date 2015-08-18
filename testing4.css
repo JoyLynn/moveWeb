@@ -35,6 +35,11 @@ p {
 
 .main p {
   font-size: 18px;
+  color: white;
+}
+
+.main button {
+  color: #5a5a5a;
 }
 
 
@@ -62,6 +67,9 @@ p {
 .clearfix {
   background-image: url("http://www.linz09.at/fm/4972/I%20like%20to%20move%20it%20move%20it1_c_Nick%20Mangafas.jpg");
   background-size: cover;
+  padding-top: 150px;
+  color: blue;
+  text-align: center;
   height: 500px;
   clear: both;
 }
@@ -104,6 +112,7 @@ p {
 .footer {
   background-image: url("http://www.moveitmobstyle.com.au/wp-content/uploads/2013/07/MIMS1.jpg");
   background-size: cover;
+  text-align: center;
   height: 600px;
 }
 
